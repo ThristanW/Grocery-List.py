@@ -21,3 +21,6 @@ while True:
                 list.remove(removal)
         case 4:
             break
+"""
+good job! could use extra error handling when a user inputs the wrong datatype, overall still good :D
+"""
